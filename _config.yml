@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
+trc_affiliate_link: "https://bosanchezmembers.com/amember/go.php?r=52492"
 
 # Build settings
 markdown: kramdown
